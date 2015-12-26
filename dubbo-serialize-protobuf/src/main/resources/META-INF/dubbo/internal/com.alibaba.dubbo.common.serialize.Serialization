@@ -1,0 +1,1 @@
+protobufmix=com.yam.dubbo.serialize.protobuf.Hessian2WithProtobufSerialization
